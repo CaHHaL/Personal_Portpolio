@@ -9,7 +9,7 @@ export const NavBar = () => {
         <Navbar expand="lg" >
             <Container>
                 <Navbar.Brand href="#home">Cahal Agarwalla</Navbar.Brand>
-                <Navbar.Toggle aria-controls="basic-navbar-nav" >CA</Navbar.Toggle>
+                <Navbar.Toggle aria-controls="basic-navbar-nav" ></Navbar.Toggle>
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
                         <Nav.Link href="#home">Home</Nav.Link>
